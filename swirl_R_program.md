@@ -1,7 +1,7 @@
-### You can find this at [http://pan.baidu.com/s/1dDqyeo5](http://pan.baidu.com/s/1dDqyeo5)
+### You can find the PDF and doc version at [http://pan.baidu.com/s/1dDqyeo5](http://pan.baidu.com/s/1dDqyeo5)
 ===========
 
-Part2
+* Part2
 1: R Programming
 2: Take me to the swirl course repository!
 
